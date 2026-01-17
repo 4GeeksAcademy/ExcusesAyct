@@ -1,5 +1,15 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
+body {
+    background-color: white;
+}
 
-body{
-    background: white;
+.container {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 1500px;
+    height: 600px;
+    color: cornflowerblue;
+    font-weight: bold;
 }
